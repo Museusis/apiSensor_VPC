@@ -1,0 +1,18 @@
+.caixa{
+    display: flex;
+    margin: 50px;
+    width: 40vw;
+    height: 40vh;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.titulo1{
+    font-family: cursive;  
+}
+.titulo2{    
+    font-family: cursive;
+}
+.container{
+    color: yellow;
+     margin-top: 5px;
+ }
